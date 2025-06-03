@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Tian Lan
 
-<!--
-**honeybluesky/honeybluesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder | Engineer | Investor  
+Building AI-native infrastructure, memory systems, and tools for mental health.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+### 🔧 [mcp-unipile](https://github.com/baryhuang/mcp-unipile)  
+MCP client integration for [Unipile](https://www.unipile.com/): sync your inbox and messaging data with AI agents.
+
+### 📝 [my-apple-remembers](https://github.com/baryhuang/my-apple-remembers)  
+Lightweight MCP server for Apple Notes. Turns your Mac into a personal memory system using AppleScript.
+
+---
+
+## ⚡ Background
+
+- Founder @ **Peak Mojo** — AI for revenue team assessments  
+- Founder @ **Future/Builderz** — Supporting immigrant founders  
+- Former eng @ **Uber** — Built Business Automation Platform  
+- Venture Partner @ **Hat-Trick Capital**  
+- Based in Seattle, active in NYC AI community
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/lantianx/)
+
+---
+
+> “Build what only you can build. Stay uncomfortable. Stay in motion.”
