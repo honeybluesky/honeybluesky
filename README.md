@@ -7,11 +7,14 @@ Building AI-native infrastructure, memory systems, and tools for mental health.
 
 ## 🛠️ Projects
 
-### 🔧 [mcp-unipile](https://github.com/baryhuang/mcp-unipile)  
-MCP client integration for [Unipile](https://www.unipile.com/): sync your inbox and messaging data with AI agents.
-
 ### 📝 [my-apple-remembers](https://github.com/baryhuang/my-apple-remembers)  
 Lightweight MCP server for Apple Notes. Turns your Mac into a personal memory system using AppleScript.
+
+### 📰 [builderznews-web](https://github.com/honeybluesky/builderznews-web)  
+A lightweight web app for surfacing the latest VC funding news and startup insights.
+
+### 🔧 [mcp-unipile](https://github.com/baryhuang/mcp-unipile)  
+MCP client integration for [Unipile](https://www.unipile.com/): sync your inbox and messaging data with AI agents.
 
 ---
 
