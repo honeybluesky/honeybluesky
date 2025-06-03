@@ -24,7 +24,7 @@ MCP client integration for [Unipile](https://www.unipile.com/): sync your inbox 
 - Founder @ **Future/Builderz** — Supporting immigrant founders  
 - Former eng @ **Uber** — Built Business Automation Platform  
 - Venture Partner @ **Hat-Trick Capital**  
-- Based in Seattle, active in NYC AI community
+- Based in Seattle, founder of future-builderz Startup community
 
 ---
 
