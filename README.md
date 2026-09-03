@@ -20,7 +20,7 @@ MCP client integration for [Unipile](https://www.unipile.com/): sync your inbox 
 
 ## ⚡ Background
 
-- Founder @ **Peak Mojo** — AI for revenue team assessments  
+- Founder @ **Care Mojo** — Edge AI wearables for safer aging in place.
 - Founder @ **Future/Builderz** — Supporting immigrant founders  
 - Former eng @ **Uber** — Built Business Automation Platform  
 - Venture Partner @ **Hat-Trick Capital**  
